@@ -1,0 +1,17 @@
+{
+    "name": "hello-ruff",
+    "version": "0.1.0",
+    "description": "",
+    "author": "",
+    "main": "src/index.js",
+    "ruff": {
+        "dependencies": {
+            "lcd1602-pcf8574a-hd44780": "^0.2.6",
+            "dht11": "^0.3.6",
+            "buzzer-gpio": "^0.2.5",
+            "ky-016": "^2.0.5",
+            "sound-01": "^1.1.6"
+        },
+        "version": 1
+    }
+}
